@@ -1,0 +1,7 @@
+#navbar{
+    box-sizing: border-box;
+    width: 100vw;
+    height: 5rem;
+    background-color: pink;
+    overflow-x: hidden;
+}
