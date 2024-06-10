@@ -5,7 +5,9 @@ import React from 'react'
 const NavBar = () => {
   return (
     <section id='navbar'>
-        <span>FM-ANALYZER</span>
+        <nav className='navbar-content'>
+          <span>FM-ANALYZER</span>
+        </nav>
     </section>
   )
 }
